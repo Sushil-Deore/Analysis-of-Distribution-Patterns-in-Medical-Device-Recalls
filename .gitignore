@@ -21,6 +21,9 @@ sdist/
 var/
 wheels/
 share/python-wheels/
+openFDA/
+output_files_raw/
+
 *.egg-info/
 .installed.cfg
 *.egg
@@ -35,6 +38,7 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+OpenFDA_combined_data.csv
 
 # Unit test / coverage reports
 htmlcov/

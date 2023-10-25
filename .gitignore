@@ -15,6 +15,7 @@ downloads/
 eggs/
 .eggs/
 lib/
+images/
 lib64/
 parts/
 sdist/
@@ -23,6 +24,7 @@ wheels/
 share/python-wheels/
 openFDA/
 output_files_raw/
+
 
 *.egg-info/
 .installed.cfg
@@ -39,6 +41,8 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 OpenFDA_combined_data.csv
+Modeling/openFDA_combined_data.json
+Modeling/clean_openFDA.csv
 
 # Unit test / coverage reports
 htmlcov/
